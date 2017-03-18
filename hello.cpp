@@ -1,9 +1,9 @@
 #include<iostream>
 int main()
 {
-  char temp[]="2017 wo jiang shi xian meng xiang ";
+  char temp[]="This is an file is to test github.";
 
-  std::cout << "wo xiang gao su shi ji shou"<< temp << std::endl;
+  std::cout << "hello,word !"<< temp << std::endl;
   return 0;
 }
 
